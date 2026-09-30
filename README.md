@@ -1,8 +1,8 @@
-# 환상수호전 랩소디아 한국어 패치 (Suikoden Tactics / Rhapsodia Korean Patch)
+# 랩소디아 한국어 패치 (Rhapsodia Korean Patch)
 
-![환상수호전 랩소디아 한국어 패치 타이틀 화면](images/title.png)
+![랩소디아 한국어 패치 타이틀 화면](images/title.png)
 
-PS2 일본판 幻想水滸伝ラプソディア (Genso Suikoden Rhapsodia)용 비공식 한국어 번역 패치입니다.
+PS2 일본판 『Rhapsodia』(ラプソディア, 환상수호전 IV 외전, 북미판 Suikoden Tactics)용 비공식 한국어 번역 패치입니다.
 게임 ISO는 배포하지 않으며, 본인이 가진 원본 ISO에 적용하는 xdelta 차분 패치만 제공합니다.
 
 > ⚠️ **패치는 반드시 아무것도 적용하지 않은 원본 ISO에 적용하세요.**
@@ -14,7 +14,7 @@ PS2 일본판 幻想水滸伝ラプソディア (Genso Suikoden Rhapsodia)용 �
 
 | 항목 | 값 |
 |---|---|
-| 게임 | 幻想水滸伝ラプソディア (일본판, SLPM-66105) |
+| 게임 | Rhapsodia (일본판, SLPM-66105) |
 | 파일 | 원본 ISO 이미지 1개 |
 | 크기 | 1,425,506,304 바이트 |
 | CRC32 | `A74A9503` |
